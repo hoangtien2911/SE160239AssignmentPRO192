@@ -1,4 +1,4 @@
-# Welcome to my second Repository - ProductManagement project
+# Welcome to my Repository - ProductManagement project
 
 ## You will find in this repo:
 
